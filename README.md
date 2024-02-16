@@ -1,6 +1,6 @@
 # Documentación Chat Buho
 
-Repositorio de documentación de nuestro sistema omnicanal [Chat Buho](https://buho.la/chat/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
+Repositorio de documentación de nuestro sistema omnicanal [Chat Buho](https://buho.la/v2/chat). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
 
 Tener en cuenta la estructura general del contenido que debe tener cada artículo:
 - Título y Descripción
@@ -13,7 +13,14 @@ Tener en cuenta la estructura general del contenido que debe tener cada artícul
 - Preguntas frecuentes
 - Recursos Adicionales
 
-Si estas colaborando con nosotros usa los siguientes comandos:
+
+## 🚀 Empezando
+Nesesitará:
+
+- [Node.js 16.14+ (recommended 18 LTS).](https://nodejs.org/)
+- [Git.](https://git-scm.com/)
+
+Si estas colaborando con nosotros use los siguientes comandos:
 
 ### Instalación
 
